@@ -4,3 +4,6 @@ const c="Jaypal";
 const d="Hiren";
 
 export default a;
+export {a};
+export {b};
+export {c};
